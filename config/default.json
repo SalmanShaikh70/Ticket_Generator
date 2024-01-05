@@ -1,0 +1,10 @@
+{
+    "port" : 3090,
+    "mysql" : {
+        "database" : "tickets",
+        "username" : "root",
+        "password" : "root",
+        "host" : "localhost",
+        "dialect" : "mysql"
+    }
+}
